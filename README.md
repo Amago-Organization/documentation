@@ -11,13 +11,13 @@ O projeto segue uma estrutura clara de pastas para ajudar na manutenção e cola
 ```text
 documentos/
 └── prd/
-    ├── requisitos/
-    │   ├── funcionais/
-    │   ├── nao-funcionais/
-    │   └── regras-negocio/
-    ├── diagramas/
-    ├── cenarios-teste/
-    ├── prototipos/
+│   ├── requisitos/
+│   │   ├── funcionais/
+│   │   ├── nao-funcionais/
+│   │   └── regras-negocio/
+│   ├── diagramas/
+│   ├── cenarios-teste/
+│   ├── prototipos/
 └── iteracoes/
 └── prompts/
 ```
