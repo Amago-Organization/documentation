@@ -61,7 +61,7 @@ Cada atividade do projeto é classificada conforme sua natureza, o que ajuda a i
 
 ### Estrutura Padrão das Atividades/Issues
 
-As issues são usadas para planejar, distribuir e acompanhar as atividades do projeto. Elas estão localizadas no **[_Project (projeto)_](https://github.com/orgs/Pulse-Post/projects/1)** desta organização e cada uma deve conter informações completas para garantir entendimento e rastreabilidade. Neste contexto, o modelo adotado de issue/atividade segue o consecutivo padrão abaixo:
+As issues são usadas para planejar, distribuir e acompanhar as atividades do projeto. Elas estão localizadas no **[_Project (projeto)_](https://github.com/orgs/Amago-Organization/projects/1/views/1)** desta organização e cada uma deve conter informações completas para garantir entendimento e rastreabilidade. Neste contexto, o modelo adotado de issue/atividade segue o consecutivo padrão abaixo:
 
 - **Identificador:** número de identificação de cada issue. É gerado automaticamente;
 - **Título:** curto, descrevendo o que deve ser feito e referenciando o repositório para a sua construção;
