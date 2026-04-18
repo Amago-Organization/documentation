@@ -18,7 +18,8 @@ documentos/
     ├── diagramas/
     ├── cenarios-teste/
     ├── prototipos/
-    └── prompts/
+└── iteracoes/
+└── prompts/
 ```
 
 Essa separação permite localizar rapidamente os arquivos.
