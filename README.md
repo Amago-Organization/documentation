@@ -17,7 +17,7 @@ documentos/
 │   │   └── regras-negocio/
 │   ├── diagramas/
 │   ├── cenarios-teste/
-│   ├── prototipos/
+│   └── prototipos/
 └── iteracoes/
 └── prompts/
 ```
