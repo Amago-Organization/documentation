@@ -60,7 +60,7 @@ Regras Gerais:
 - Me envia a resposta em formato .md.
 ```
 
-## Contexto Incluso (o que foi mandado no chat)
+## PRD e Histórias de Usuário Inclusas (o que foi mandado no chat)
 
 ```text
 PRD
