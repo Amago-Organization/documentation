@@ -18,7 +18,7 @@ documentos/
 │   ├── diagramas/
 │   ├── cenarios-teste/
 │   └── prototipos/
-└── iteracoes/
+├── iteracoes/
 └── prompts/
 ```
 
